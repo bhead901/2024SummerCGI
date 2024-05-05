@@ -9,3 +9,9 @@ Summer classes with Gary Jackson
     > git add *
     > git commit -m "Initialized NewGitHub"
     > git push
+    > cd Documents
+    > cd Repositories
+    > cd NewGitHub
+    > git add *
+    > git commit -m "Put Any Comments Here About New Contents"
+    > git push
